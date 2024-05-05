@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>C:/Users/Hugo/Desktop/peixinho/Peixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/File.spritefont</SourceFile>
-  <SourceTime>2022-07-26T12:44:00+02:00</SourceTime>
-  <DestFile>C:/Users/Hugo/Desktop/peixinho/Peixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/bin/DesktopGL/Content/File.xnb</DestFile>
-  <DestTime>2024-05-01T16:53:37.7349977+02:00</DestTime>
+  <SourceFile>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/pasta sem nome/Peixinho-main/Peixinho_demo_v2/PeixinhoDecoup/Content/File.spritefont</SourceFile>
+  <SourceTime>2024-05-05T05:34:02+01:00</SourceTime>
+  <DestFile>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/pasta sem nome/Peixinho-main/Peixinho_demo_v2/PeixinhoDecoup/Content/bin/DesktopGL/Content/File.xnb</DestFile>
+  <DestTime>2024-05-05T21:37:17.3936895+01:00</DestTime>
   <Importer>FontDescriptionImporter</Importer>
-  <ImporterTime>2022-07-26T13:44:56+02:00</ImporterTime>
+  <ImporterTime>2022-07-26T12:44:56+01:00</ImporterTime>
   <Processor>FontDescriptionProcessor</Processor>
-  <ProcessorTime>2022-07-26T13:44:56+02:00</ProcessorTime>
+  <ProcessorTime>2022-07-26T12:44:56+01:00</ProcessorTime>
   <Parameters>
     <Key>PremultiplyAlpha</Key>
     <Value>True</Value>

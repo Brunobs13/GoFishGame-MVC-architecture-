@@ -113,4 +113,13 @@ public class View : Game
             position.X += 100; // Space between cards
         }
     }
+
+    public void ShowErrorMessage(string error)
+    {
+        Vector2 position = new Vector2(200, 200);
+        _spriteBatch.DrawString(_font, "Error Log:", position, Color.Red);
+        position.Y += 20;  // Offset for label
+        _spriteBatch.DrawString(_font, error, position, Color.Red); 
+
+    }
 }
