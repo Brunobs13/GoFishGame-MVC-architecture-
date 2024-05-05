@@ -3,6 +3,7 @@ using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 
 namespace PeixinhoDecoup;
 
@@ -69,6 +70,7 @@ public class View : Game
 
                 if (giveMeData != null)
                 {
+                    Debug.WriteLine("data requested by view.");
                     giveMeData(ref deck, ref userHand, ref opponentHand);
                 }
             }

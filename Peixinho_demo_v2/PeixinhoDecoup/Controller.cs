@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 
 namespace PeixinhoDecoup;
 
@@ -14,7 +15,9 @@ public class Controller
         _view = new View(_model);
         // Connect View events
         _view.Clicked += HandleClick;
+       
         _view.giveMeData += RequestDataFromModel;
+        Debug.WriteLine("data requested");
     }
 
     public void Run()
