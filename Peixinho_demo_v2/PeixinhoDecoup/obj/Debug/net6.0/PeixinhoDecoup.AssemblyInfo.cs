@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PeixinhoDecoup")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4cf69ee12f2d2278350c5afc5f83609f4e478419")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59a9e2c3a420c559976844248c2b133f429c9340")]
 [assembly: System.Reflection.AssemblyProductAttribute("PeixinhoDecoup")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PeixinhoDecoup")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
