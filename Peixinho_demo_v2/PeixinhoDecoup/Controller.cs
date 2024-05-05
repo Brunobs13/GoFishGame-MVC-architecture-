@@ -17,7 +17,7 @@ public class Controller
         _view.Clicked += HandleClick;
        
         _view.giveMeData += RequestDataFromModel;
-        Debug.WriteLine("data requested");
+   
     }
 
     public void Run()
@@ -28,7 +28,7 @@ public class Controller
     private void HandleClick(object sender, EventArgs e)
     {
         // You might want to handle UI changes or other logic here when the button is clicked
-        Console.WriteLine("Start button clicked.");
+        Debug.WriteLine("Start buton clicked");
     }
 
     private void RequestDataFromModel(ref List<string> deck, ref List<string> userHand, ref List<string> opponentHand)
