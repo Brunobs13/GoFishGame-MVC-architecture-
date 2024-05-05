@@ -1,34 +1,60 @@
 using System;
 using System.Collections.Generic;
-    
+
 namespace PeixinhoDecoup;
 
 public class Model
 {
-    List<int> randomList = new List<int>();
-    public void ExecuteAction()
+    private List<string> deck = new List<string>();
+    private List<string> userHand = new List<string>();
+    private List<string> opponentHand = new List<string>();
+
+    public Model()
     {
-        Console.WriteLine("model executa ação por ordem do Controller");
-        Random random = new Random();
-        //gera lista de numeros aleatórios
-        for (int i = 0; i < 10; i++)
-        {
-            randomList.Add(random.Next(51));
-        }
-        //Console.WriteLine("randomList"+randomList.Count);
-    }
-    
-    public void RequestData(ref List<int> list)
-    {
-        Console.WriteLine("Por ordem do controller Model disponibliza a lista (mas não sabe para quem) ");
-        list = new List<int>();
-        //faz deepcopy para a nova lista
-        foreach (int item in randomList)
-       {
-           list.Add(item);
-       }
-       //Console.WriteLine("copiedList"+list.Count);
-        
+        InitializeDeck();
+        ShuffleDeck();
+        DealCards();
     }
 
+    private void InitializeDeck()
+    {
+        string[] suits = { "Hearts", "Diamonds", "Clubs", "Spades" };
+        string[] values = { "2", "3", "4", "5", "6", "7", "8", "9", "10", "Jack", "Queen", "King", "Ace" };
+        foreach (var suit in suits)
+        {
+            foreach (var value in values)
+            {
+                deck.Add($"{value} of {suit}");
+            }
+        }
+    }
+
+    private void ShuffleDeck()
+    {
+        Random random = new Random();
+        for (int i = deck.Count - 1; i > 0; i--)
+        {
+            int swapIndex = random.Next(i + 1);
+            string temp = deck[i];
+            deck[i] = deck[swapIndex];
+            deck[swapIndex] = temp;
+        }
+    }
+
+    private void DealCards()
+    {
+        for (int i = 0; i < 8; i++)  // Assuming each player gets 8 cards
+        {
+            userHand.Add(deck[i]);
+            opponentHand.Add(deck[i + 8]);
+        }
+        deck.RemoveRange(0, 16);  // Removing the dealt cards from the deck
+    }
+
+    public void RequestData(ref List<string> deckRef, ref List<string> userHandRef, ref List<string> opponentHandRef)
+    {
+        deckRef = new List<string>(deck);
+        userHandRef = new List<string>(userHand);
+        opponentHandRef = new List<string>(opponentHand);
+    }
 }

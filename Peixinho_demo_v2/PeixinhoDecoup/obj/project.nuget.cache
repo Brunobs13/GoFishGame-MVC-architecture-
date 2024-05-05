@@ -1,11 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "e6/oTOEj6AKQvwK3+7gRYC4HWFiM9UBllRNQzYLyEgAdoaWQd9qIWmE5rNJvj5/7sWLJKkM+s2p5n7p4lAecMA==",
+  "dgSpecHash": "tiuX+M1B0jwEPjezQDNmZuVCIdqHu4tnJrRwoV00cKIXqqvcTbMmYyuLIxJ+w3QMvqAz/5cUINq/gwRnMsLkSA==",
   "success": true,
-  "projectFilePath": "/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/PeixinhoDecoup.csproj",
+  "projectFilePath": "C:\\Users\\Hugo\\Desktop\\peixinho\\Peixinho\\Peixinho_demo_v2\\PeixinhoDecoup\\PeixinhoDecoup.csproj",
   "expectedPackageFiles": [
-    "/Users/adelinopereira/.nuget/packages/monogame.content.builder.task/3.8.1.303/monogame.content.builder.task.3.8.1.303.nupkg.sha512",
-    "/Users/adelinopereira/.nuget/packages/monogame.framework.desktopgl/3.8.1.303/monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+    "C:\\Users\\Hugo\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\Hugo\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\Hugo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Hugo\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Hugo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Hugo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,5 +1,6 @@
 using System;
-    
+using System.Collections.Generic;
+
 namespace PeixinhoDecoup;
 
 public class Controller
@@ -11,19 +12,24 @@ public class Controller
     {
         _model = new Model();
         _view = new View(_model);
-        //ligar a evento na view
+        // Connect View events
         _view.Clicked += HandleClick;
-        _view.giveMeData += _model.RequestData;
+        _view.giveMeData += RequestDataFromModel;
     }
+
     public void Run()
     {
-        _view.Run();//Ativar View
+        _view.Run();  // Start the View
     }
-    private void HandleClick(object sender, EventArgs e)//metodo para gerir evento
+
+    private void HandleClick(object sender, EventArgs e)
     {
-        // gerir o evento do click
-        Console.WriteLine("Controller é notificado do click");
-        //recebeu notificação manda executar açao
-        _model.ExecuteAction();
+        // You might want to handle UI changes or other logic here when the button is clicked
+        Console.WriteLine("Start button clicked.");
+    }
+
+    private void RequestDataFromModel(ref List<string> deck, ref List<string> userHand, ref List<string> opponentHand)
+    {
+        _model.RequestData(ref deck, ref userHand, ref opponentHand);
     }
 }

@@ -4,8 +4,8 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/File.spritefont</File>
-    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/start_button.png</File>
+    <File>C:/Users/Hugo/Desktop/peixinho/Peixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/File.spritefont</File>
+    <File>C:/Users/Hugo/Desktop/peixinho/Peixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/start_button.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />
