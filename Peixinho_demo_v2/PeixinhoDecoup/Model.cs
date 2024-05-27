@@ -65,5 +65,6 @@ public class Model
         deckRef = new List<string>(deck);
         userHandRef = new List<string>(userHand);
         opponentHandRef = new List<string>(opponentHand);
+
     }
 }
