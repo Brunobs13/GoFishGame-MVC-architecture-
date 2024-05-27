@@ -39,12 +39,15 @@ public class Controller
     }
     private void HandleModelLogChanged(string log)
     {
+
+        _view.ShowErrorMessage("Erro ao gerar baralho. Gerar novo baralho? " + ex.Message);
         //Console.WriteLine(log);
         //_view.ShowErrorMessage(log);
-        
+
         // Tentar reiniciar o model novamente
         try
         {
+           
             _model = new Model();
   
         }
