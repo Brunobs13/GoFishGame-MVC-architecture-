@@ -102,8 +102,7 @@ public class View : Game
             DrawCards(userHand, new Vector2(0, 100), "User Hand:");
             DrawCards(opponentHand, new Vector2(0, 200), "Opponent Hand:");
             DrawCards(deck, new Vector2(0, 300), "Deck:");
-
-            
+            Console.WriteLine("ola. qual o seu nome?");
 
 
         }
