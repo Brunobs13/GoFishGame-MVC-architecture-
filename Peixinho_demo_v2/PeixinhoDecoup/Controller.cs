@@ -40,21 +40,22 @@ public class Controller
     private void HandleModelLogChanged(string log)
     {
 
-        _view.ShowErrorMessage("Erro ao gerar baralho. Gerar novo baralho? " + ex.Message);
+        //estava a dar asneiras... a corrigir- .
+       // _view.ShowErrorMessage("Erro ao gerar baralho. Gerar novo baralho? " + ex.Message);
         //Console.WriteLine(log);
         //_view.ShowErrorMessage(log);
 
         // Tentar reiniciar o model novamente
-        try
-        {
+        //try
+        //{
            
             _model = new Model();
   
-        }
-        catch (Exception ex)
-        {
+        //}
+        //catch (Exception ex)
+       // {
             // Se a reinicialização voltar a manda a view mostrar mensagem
-            _view.ShowErrorMessage("Falha ao reiniciar o modelo. Erro: " + ex.Message);
-        }
+           // _view.ShowErrorMessage("Falha ao reiniciar o modelo. Erro: " + ex.Message);
+        //}
     }
 }

@@ -1,0 +1,15 @@
+C:\Users\Hugo\Desktop\peixinho\Peixinho\peix_comandos\peixinho\peixinho\bin\Debug\net8.0\peixinho.exe
+C:\Users\Hugo\Desktop\peixinho\Peixinho\peix_comandos\peixinho\peixinho\bin\Debug\net8.0\peixinho.deps.json
+C:\Users\Hugo\Desktop\peixinho\Peixinho\peix_comandos\peixinho\peixinho\bin\Debug\net8.0\peixinho.runtimeconfig.json
+C:\Users\Hugo\Desktop\peixinho\Peixinho\peix_comandos\peixinho\peixinho\bin\Debug\net8.0\peixinho.dll
+C:\Users\Hugo\Desktop\peixinho\Peixinho\peix_comandos\peixinho\peixinho\bin\Debug\net8.0\peixinho.pdb
+C:\Users\Hugo\Desktop\peixinho\Peixinho\peix_comandos\peixinho\peixinho\obj\Debug\net8.0\peixinho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo\Desktop\peixinho\Peixinho\peix_comandos\peixinho\peixinho\obj\Debug\net8.0\peixinho.AssemblyInfoInputs.cache
+C:\Users\Hugo\Desktop\peixinho\Peixinho\peix_comandos\peixinho\peixinho\obj\Debug\net8.0\peixinho.AssemblyInfo.cs
+C:\Users\Hugo\Desktop\peixinho\Peixinho\peix_comandos\peixinho\peixinho\obj\Debug\net8.0\peixinho.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\Desktop\peixinho\Peixinho\peix_comandos\peixinho\peixinho\obj\Debug\net8.0\peixinho.sourcelink.json
+C:\Users\Hugo\Desktop\peixinho\Peixinho\peix_comandos\peixinho\peixinho\obj\Debug\net8.0\peixinho.dll
+C:\Users\Hugo\Desktop\peixinho\Peixinho\peix_comandos\peixinho\peixinho\obj\Debug\net8.0\refint\peixinho.dll
+C:\Users\Hugo\Desktop\peixinho\Peixinho\peix_comandos\peixinho\peixinho\obj\Debug\net8.0\peixinho.pdb
+C:\Users\Hugo\Desktop\peixinho\Peixinho\peix_comandos\peixinho\peixinho\obj\Debug\net8.0\peixinho.genruntimeconfig.cache
+C:\Users\Hugo\Desktop\peixinho\Peixinho\peix_comandos\peixinho\peixinho\obj\Debug\net8.0\ref\peixinho.dll
