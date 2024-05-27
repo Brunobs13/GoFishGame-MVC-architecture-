@@ -40,14 +40,23 @@ public class Controller
     private void HandleModelLogChanged(string log)
     {
 
+<<<<<<< HEAD
         //estava a dar asneiras... a corrigir- .
        // _view.ShowErrorMessage("Erro ao gerar baralho. Gerar novo baralho? " + ex.Message);
+=======
+        _view.ShowErrorMessage("Erro ao gerar baralho. Gerar novo baralho? " + ex.Message);
+>>>>>>> 6000c99b33389ea1b80e69c1a955e7381d97b59f
         //Console.WriteLine(log);
         //_view.ShowErrorMessage(log);
 
         // Tentar reiniciar o model novamente
+<<<<<<< HEAD
         //try
         //{
+=======
+        try
+        {
+>>>>>>> 6000c99b33389ea1b80e69c1a955e7381d97b59f
            
             _model = new Model();
   
