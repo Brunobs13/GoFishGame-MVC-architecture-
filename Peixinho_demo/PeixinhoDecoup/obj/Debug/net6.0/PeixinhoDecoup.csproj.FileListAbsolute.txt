@@ -1,0 +1,308 @@
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/PeixinhoDecoup/bin/Debug/net6.0/PeixinhoDecoup
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/PeixinhoDecoup/bin/Debug/net6.0/PeixinhoDecoup.deps.json
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/PeixinhoDecoup/bin/Debug/net6.0/PeixinhoDecoup.runtimeconfig.json
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/PeixinhoDecoup/bin/Debug/net6.0/PeixinhoDecoup.dll
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/PeixinhoDecoup/bin/Debug/net6.0/PeixinhoDecoup.pdb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/PeixinhoDecoup/bin/Debug/net6.0/MonoGame.Framework.dll
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/PeixinhoDecoup/bin/Debug/net6.0/runtimes/linux-x64/native/libSDL2-2.0.so.0
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/PeixinhoDecoup/bin/Debug/net6.0/runtimes/linux-x64/native/libopenal.so.1
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/PeixinhoDecoup/bin/Debug/net6.0/runtimes/osx/native/libSDL2.dylib
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/PeixinhoDecoup/bin/Debug/net6.0/runtimes/osx/native/libopenal.1.dylib
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/PeixinhoDecoup/bin/Debug/net6.0/runtimes/win-x64/native/SDL2.dll
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/PeixinhoDecoup/bin/Debug/net6.0/runtimes/win-x64/native/soft_oal.dll
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/PeixinhoDecoup/bin/Debug/net6.0/runtimes/win-x86/native/SDL2.dll
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/PeixinhoDecoup/bin/Debug/net6.0/runtimes/win-x86/native/soft_oal.dll
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/PeixinhoDecoup/obj/Debug/net6.0/PeixinhoDecoup.csproj.AssemblyReference.cache
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/PeixinhoDecoup/obj/Debug/net6.0/PeixinhoDecoup.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/PeixinhoDecoup/obj/Debug/net6.0/PeixinhoDecoup.AssemblyInfoInputs.cache
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/PeixinhoDecoup/obj/Debug/net6.0/PeixinhoDecoup.AssemblyInfo.cs
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/PeixinhoDecoup/obj/Debug/net6.0/PeixinhoDecoup.csproj.CoreCompileInputs.cache
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/PeixinhoDecoup/obj/Debug/net6.0/PeixinhoDecoup.csproj.CopyComplete
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/PeixinhoDecoup/obj/Debug/net6.0/PeixinhoDecoup.dll
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/PeixinhoDecoup/obj/Debug/net6.0/refint/PeixinhoDecoup.dll
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/PeixinhoDecoup/obj/Debug/net6.0/PeixinhoDecoup.pdb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/PeixinhoDecoup/obj/Debug/net6.0/PeixinhoDecoup.genruntimeconfig.cache
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/PeixinhoDecoup/obj/Debug/net6.0/ref/PeixinhoDecoup.dll
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/PeixinhoDecoup/bin/Debug/net6.0/Content/start_button.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/PeixinhoDecoup/bin/Debug/net6.0/Content/File.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo - cópia/PeixinhoDecoup/obj/Debug/net6.0/PeixinhoDecoup.csproj.AssemblyReference.cache
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo - cópia/PeixinhoDecoup/obj/Debug/net6.0/PeixinhoDecoup.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo - cópia/PeixinhoDecoup/obj/Debug/net6.0/PeixinhoDecoup.AssemblyInfoInputs.cache
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo - cópia/PeixinhoDecoup/obj/Debug/net6.0/PeixinhoDecoup.AssemblyInfo.cs
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo - cópia/PeixinhoDecoup/obj/Debug/net6.0/PeixinhoDecoup.csproj.CoreCompileInputs.cache
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo - cópia/PeixinhoDecoup/obj/Debug/net6.0/PeixinhoDecoup.dll
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo - cópia/PeixinhoDecoup/obj/Debug/net6.0/refint/PeixinhoDecoup.dll
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo - cópia/PeixinhoDecoup/obj/Debug/net6.0/PeixinhoDecoup.pdb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo - cópia/PeixinhoDecoup/bin/Debug/net6.0/Content/File.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo - cópia/PeixinhoDecoup/bin/Debug/net6.0/Content/start_button.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo - cópia/PeixinhoDecoup/bin/Debug/net6.0/PeixinhoDecoup
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo - cópia/PeixinhoDecoup/bin/Debug/net6.0/PeixinhoDecoup.dll
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo - cópia/PeixinhoDecoup/bin/Debug/net6.0/PeixinhoDecoup.pdb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/File.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/start_button.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/PeixinhoDecoup
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/PeixinhoDecoup.deps.json
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/PeixinhoDecoup.runtimeconfig.json
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/PeixinhoDecoup.dll
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/PeixinhoDecoup.pdb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/MonoGame.Framework.dll
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/runtimes/linux-x64/native/libSDL2-2.0.so.0
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/runtimes/linux-x64/native/libopenal.so.1
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/runtimes/osx/native/libSDL2.dylib
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/runtimes/osx/native/libopenal.1.dylib
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/runtimes/win-x64/native/SDL2.dll
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/runtimes/win-x64/native/soft_oal.dll
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/runtimes/win-x86/native/SDL2.dll
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/runtimes/win-x86/native/soft_oal.dll
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/obj/Debug/net6.0/PeixinhoDecoup.csproj.AssemblyReference.cache
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/obj/Debug/net6.0/PeixinhoDecoup.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/obj/Debug/net6.0/PeixinhoDecoup.AssemblyInfoInputs.cache
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/obj/Debug/net6.0/PeixinhoDecoup.AssemblyInfo.cs
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/obj/Debug/net6.0/PeixinhoDecoup.csproj.CoreCompileInputs.cache
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/obj/Debug/net6.0/PeixinhoDecoup.csproj.CopyComplete
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/obj/Debug/net6.0/PeixinhoDecoup.dll
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/obj/Debug/net6.0/refint/PeixinhoDecoup.dll
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/obj/Debug/net6.0/PeixinhoDecoup.pdb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/obj/Debug/net6.0/PeixinhoDecoup.genruntimeconfig.cache
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/obj/Debug/net6.0/ref/PeixinhoDecoup.dll
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/10_of_clubs.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/10_of_diamonds.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/10_of_hearts.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/10_of_spades.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/2_of_clubs.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/2_of_diamonds.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/2_of_hearts.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/2_of_spades.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/3_of_clubs.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/3_of_diamonds.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/3_of_hearts.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/3_of_spades.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/4_of_clubs.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/4_of_diamonds.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/4_of_hearts.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/4_of_spades.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/5_of_clubs.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/5_of_diamonds.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/5_of_hearts.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/5_of_spades.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/6_of_clubs.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/6_of_diamonds.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/6_of_hearts.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/6_of_spades.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/7_of_clubs.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/7_of_diamonds.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/7_of_hearts.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/7_of_spades.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/8_of_clubs.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/8_of_diamonds.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/8_of_hearts.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/8_of_spades.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/9_of_clubs.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/9_of_diamonds.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/9_of_hearts.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/9_of_spades.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/ace_of_clubs.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/ace_of_diamonds.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/ace_of_hearts.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/ace_of_spades.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/ace_of_spades2.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/black_joker.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/jack_of_clubs.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/jack_of_clubs2.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/jack_of_diamonds.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/jack_of_diamonds2.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/jack_of_hearts.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/jack_of_hearts2.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/jack_of_spades.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/jack_of_spades2.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/king_of_clubs.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/king_of_clubs2.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/king_of_diamonds.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/king_of_diamonds2.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/king_of_hearts.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/king_of_hearts2.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/king_of_spades.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/king_of_spades2.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/queen_of_clubs.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/queen_of_clubs2.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/queen_of_diamonds.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/queen_of_diamonds2.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/queen_of_hearts.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/queen_of_hearts2.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/queen_of_spades.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/queen_of_spades2.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/bin/Debug/net6.0/Content/red_joker.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/10_of_clubs.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/10_of_diamonds.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/10_of_hearts.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/10_of_spades.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/2_of_clubs.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/2_of_diamonds.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/2_of_hearts.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/2_of_spades.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/3_of_clubs.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/3_of_diamonds.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/3_of_hearts.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/3_of_spades.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/4_of_clubs.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/4_of_diamonds.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/4_of_hearts.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/4_of_spades.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/5_of_clubs.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/5_of_diamonds.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/5_of_hearts.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/5_of_spades.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/6_of_clubs.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/6_of_diamonds.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/6_of_hearts.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/6_of_spades.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/7_of_clubs.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/7_of_diamonds.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/7_of_hearts.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/7_of_spades.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/8_of_clubs.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/8_of_diamonds.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/8_of_hearts.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/8_of_spades.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/9_of_clubs.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/9_of_diamonds.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/9_of_hearts.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/9_of_spades.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/ace_of_clubs.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/ace_of_diamonds.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/ace_of_hearts.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/ace_of_spades.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/ace_of_spades2.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/black_joker.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/File.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/jack_of_clubs.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/jack_of_clubs2.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/jack_of_diamonds.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/jack_of_diamonds2.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/jack_of_hearts.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/jack_of_hearts2.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/jack_of_spades.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/jack_of_spades2.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/king_of_clubs.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/king_of_clubs2.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/king_of_diamonds.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/king_of_diamonds2.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/king_of_hearts.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/king_of_hearts2.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/king_of_spades.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/king_of_spades2.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/queen_of_clubs.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/queen_of_clubs2.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/queen_of_diamonds.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/queen_of_diamonds2.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/queen_of_hearts.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/queen_of_hearts2.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/queen_of_spades.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/queen_of_spades2.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/red_joker.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/Content/start_button.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/PeixinhoDecoup
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/PeixinhoDecoup.dll
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/bin/Debug/net6.0/PeixinhoDecoup.pdb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/obj/Debug/net6.0/PeixinhoDecoup.csproj.AssemblyReference.cache
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/obj/Debug/net6.0/PeixinhoDecoup.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/obj/Debug/net6.0/PeixinhoDecoup.AssemblyInfoInputs.cache
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/obj/Debug/net6.0/PeixinhoDecoup.AssemblyInfo.cs
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/obj/Debug/net6.0/PeixinhoDecoup.csproj.CoreCompileInputs.cache
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/obj/Debug/net6.0/PeixinhoDecoup.dll
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/obj/Debug/net6.0/refint/PeixinhoDecoup.dll
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2 - cópia 2/PeixinhoDecoup/obj/Debug/net6.0/PeixinhoDecoup.pdb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/PeixinhoDecoup
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/PeixinhoDecoup.deps.json
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/PeixinhoDecoup.runtimeconfig.json
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/PeixinhoDecoup.dll
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/PeixinhoDecoup.pdb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/MonoGame.Framework.dll
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/runtimes/linux-x64/native/libSDL2-2.0.so.0
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/runtimes/linux-x64/native/libopenal.so.1
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/runtimes/osx/native/libSDL2.dylib
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/runtimes/osx/native/libopenal.1.dylib
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/runtimes/win-x64/native/SDL2.dll
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/runtimes/win-x64/native/soft_oal.dll
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/runtimes/win-x86/native/SDL2.dll
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/runtimes/win-x86/native/soft_oal.dll
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/obj/Debug/net6.0/PeixinhoDecoup.csproj.AssemblyReference.cache
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/obj/Debug/net6.0/PeixinhoDecoup.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/obj/Debug/net6.0/PeixinhoDecoup.AssemblyInfoInputs.cache
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/obj/Debug/net6.0/PeixinhoDecoup.AssemblyInfo.cs
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/obj/Debug/net6.0/PeixinhoDecoup.csproj.CoreCompileInputs.cache
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/obj/Debug/net6.0/PeixinhoDecoup.csproj.CopyComplete
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/obj/Debug/net6.0/PeixinhoDecoup.dll
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/obj/Debug/net6.0/refint/PeixinhoDecoup.dll
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/obj/Debug/net6.0/PeixinhoDecoup.pdb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/obj/Debug/net6.0/PeixinhoDecoup.genruntimeconfig.cache
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/obj/Debug/net6.0/ref/PeixinhoDecoup.dll
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Buttons/start_button.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/10_C.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/10_D.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/10_H.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/10_S.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/2_C.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/2_D.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/2_H.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/2_S.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/3_C.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/3_D.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/3_H.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/3_S.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/4_C.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/4_D.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/4_H.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/4_S.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/5_C.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/5_D.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/5_H.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/5_S.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/6_C.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/6_D.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/6_H.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/6_S.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/7_C.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/7_D.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/7_H.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/7_S.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/8_C.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/8_D.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/8_H.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/8_S.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/9_C.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/9_D.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/9_H.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/9_S.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/ace_C.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/ace_D.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/ace_H.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/ace_S.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/ace_S2.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/black_joker.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/jack_C.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/jack_C2.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/jack_D.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/jack_D2.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/jack_H.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/jack_H2.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/jack_S.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/jack_S2.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/king_C.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/king_C2.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/king_D.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/king_D2.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/king_H.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/king_H2.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/king_S.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/king_S2.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/queen_C.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/queen_C2.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/queen_D.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/queen_D2.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/queen_H.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/queen_H2.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/queen_S.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Cards/queen_S2.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Buttons/back.xnb
+/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/bin/Debug/net6.0/Content/Buttons/File.xnb
