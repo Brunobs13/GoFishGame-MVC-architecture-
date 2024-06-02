@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/10_C.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/10_D.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/10_H.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/10_S.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/2_C.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/2_D.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/2_H.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/2_S.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/3_C.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/3_D.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/3_H.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/3_S.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/4_C.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/4_D.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/4_H.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/4_S.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/5_C.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/5_D.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/5_H.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/5_S.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/6_C.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/6_D.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/6_H.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/6_S.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/7_C.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/7_D.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/7_H.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/7_S.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/8_C.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/8_D.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/8_H.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/8_S.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/9_C.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/9_D.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/9_H.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/9_S.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/ace_C.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/ace_D.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/ace_H.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/ace_S.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/ace_S2.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/black_joker.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/jack_C.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/jack_C2.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/jack_D.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/jack_D2.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/jack_H.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/jack_H2.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/jack_S.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/jack_S2.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/king_C.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/king_C2.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/king_D.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/king_D2.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/king_H.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/king_H2.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/king_S.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/king_S2.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/queen_C.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/queen_C2.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/queen_D.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/queen_D2.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/queen_H.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/queen_H2.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/queen_S.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Cards/queen_S2.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Buttons/back.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Buttons/File.spritefont</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v4/PeixinhoDecoup/Content/Buttons/start_button.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/10_of_clubs.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/10_of_diamonds.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/10_of_hearts.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/10_of_spades.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/2_of_clubs.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/2_of_diamonds.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/2_of_hearts.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/2_of_spades.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/3_of_clubs.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/3_of_diamonds.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/3_of_hearts.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/3_of_spades.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/4_of_clubs.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/4_of_diamonds.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/4_of_hearts.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/4_of_spades.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/5_of_clubs.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/5_of_diamonds.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/5_of_hearts.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/5_of_spades.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/6_of_clubs.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/6_of_diamonds.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/6_of_hearts.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/6_of_spades.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/7_of_clubs.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/7_of_diamonds.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/7_of_hearts.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/7_of_spades.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/8_of_clubs.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/8_of_diamonds.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/8_of_hearts.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/8_of_spades.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/9_of_clubs.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/9_of_diamonds.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/9_of_hearts.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/9_of_spades.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/ace_of_clubs.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/ace_of_diamonds.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/ace_of_hearts.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/ace_of_spades.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/ace_of_spades2.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/black_joker.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/File.spritefont</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/jack_of_clubs.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/jack_of_clubs2.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/jack_of_diamonds.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/jack_of_diamonds2.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/jack_of_hearts.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/jack_of_hearts2.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/jack_of_spades.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/jack_of_spades2.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/king_of_clubs.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/king_of_clubs2.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/king_of_diamonds.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/king_of_diamonds2.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/king_of_hearts.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/king_of_hearts2.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/king_of_spades.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/king_of_spades2.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/queen_of_clubs.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/queen_of_clubs2.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/queen_of_diamonds.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/queen_of_diamonds2.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/queen_of_hearts.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/queen_of_hearts2.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/queen_of_spades.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/queen_of_spades2.png</File>
+    <File>/Users/adelinopereira/Documents/LEI/2_ano/2_semestre/LDS/mypeixinho/Peixinho_demo_v2/PeixinhoDecoup/Content/red_joker.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
