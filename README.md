@@ -6,6 +6,14 @@ Peixinho Decoup is a card game developed using MonoGame. This project includes g
 
 The goal of this project is to create a card game where players can interact with cards in a graphical interface. The game logic is separated from the view to facilitate maintenance and expansion of the code.
 
+## Architecture
+
+This project employs the Model-View-Controller (MVC) architecture, inspired by the principles outlined by Krasner and Pope. This design pattern effectively separates concerns within the application, facilitating modular development and maintenance:
+
+- **Model**: Manages the core game logic and state, encapsulated within the `FishGame` module.
+- **View**: Handles the graphical representation and rendering of the game, defined in the `PeixinhoDecoup` module.
+- **Controller**: Processes user interactions and input, bridging the Model and View components to ensure cohesive operation.
+
 ## Project Structure
 
 - **PeixinhoDecoup**: Contains the main game logic and view implementation.
