@@ -1,6 +1,7 @@
 # Peixinho Decoup
+path to code: Peixinho_demo_v4/PeixinhoDecoup
 
-Peixinho Decoup is a card game developed using MonoGame. This project includes game logic, card loading and display, and basic user interaction.
+Peixinho Decoup or GoFish is a card game developed using MonoGame. This project includes game logic, card loading and display, and basic user interaction.
 
 ## Overview
 
