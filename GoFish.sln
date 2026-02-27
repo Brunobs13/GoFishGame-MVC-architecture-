@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{8829DFEF-B9C3-4AF1-9C1D-743384BED97D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoFish.Core", "src\GoFish.Core\GoFish.Core.csproj", "{9E6B1A1B-C38E-4D2B-939C-D5F3AA240FF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoFish.Application", "src\GoFish.Application\GoFish.Application.csproj", "{3AD99A6E-198E-47D4-9A65-C9A72F7653DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoFish.Api", "src\GoFish.Api\GoFish.Api.csproj", "{5D52CA76-CAB4-4DDD-B8C4-CE7AA1CC2527}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{CA968D44-6709-486A-A5C6-0E700C03B6C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoFish.Core.Tests", "tests\GoFish.Core.Tests\GoFish.Core.Tests.csproj", "{980A414B-B7C8-4E4B-91C9-234392799200}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E6B1A1B-C38E-4D2B-939C-D5F3AA240FF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E6B1A1B-C38E-4D2B-939C-D5F3AA240FF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E6B1A1B-C38E-4D2B-939C-D5F3AA240FF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E6B1A1B-C38E-4D2B-939C-D5F3AA240FF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AD99A6E-198E-47D4-9A65-C9A72F7653DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AD99A6E-198E-47D4-9A65-C9A72F7653DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AD99A6E-198E-47D4-9A65-C9A72F7653DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AD99A6E-198E-47D4-9A65-C9A72F7653DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D52CA76-CAB4-4DDD-B8C4-CE7AA1CC2527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D52CA76-CAB4-4DDD-B8C4-CE7AA1CC2527}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D52CA76-CAB4-4DDD-B8C4-CE7AA1CC2527}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D52CA76-CAB4-4DDD-B8C4-CE7AA1CC2527}.Release|Any CPU.Build.0 = Release|Any CPU
+		{980A414B-B7C8-4E4B-91C9-234392799200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{980A414B-B7C8-4E4B-91C9-234392799200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{980A414B-B7C8-4E4B-91C9-234392799200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{980A414B-B7C8-4E4B-91C9-234392799200}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9E6B1A1B-C38E-4D2B-939C-D5F3AA240FF4} = {8829DFEF-B9C3-4AF1-9C1D-743384BED97D}
+		{3AD99A6E-198E-47D4-9A65-C9A72F7653DE} = {8829DFEF-B9C3-4AF1-9C1D-743384BED97D}
+		{5D52CA76-CAB4-4DDD-B8C4-CE7AA1CC2527} = {8829DFEF-B9C3-4AF1-9C1D-743384BED97D}
+		{980A414B-B7C8-4E4B-91C9-234392799200} = {CA968D44-6709-486A-A5C6-0E700C03B6C8}
+	EndGlobalSection
+EndGlobal
