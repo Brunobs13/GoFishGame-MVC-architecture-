@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>GoFish Control Deck</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;700&family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/styles.css" />
+</head>
+<body>
+  <div class="ambient-glow ambient-glow-left"></div>
+  <div class="ambient-glow ambient-glow-right"></div>
+
+  <main class="layout">
+    <section class="hero">
+      <p class="hero-kicker">Production MVC Game Platform</p>
+      <h1>GoFish Control Deck</h1>
+      <p class="hero-copy">
+        Interactive game engine + API orchestration + artistic command dashboard.
+      </p>
+      <div class="hero-actions">
+        <button id="resetBtn" class="btn btn-primary" type="button">Reset Match</button>
+        <label class="seed-wrap" for="seedInput">
+          Seed
+          <input id="seedInput" type="number" placeholder="optional" />
+        </label>
+      </div>
+      <p id="feedback" class="feedback">System initialized.</p>
+    </section>
+
+    <section class="status-grid" aria-label="Game status metrics">
+      <article class="status-card">
+        <span>Status</span>
+        <strong id="statusValue">loading...</strong>
+      </article>
+      <article class="status-card">
+        <span>Turn</span>
+        <strong id="turnValue">loading...</strong>
+      </article>
+      <article class="status-card">
+        <span>Deck</span>
+        <strong id="deckValue">0</strong>
+      </article>
+      <article class="status-card">
+        <span>Score</span>
+        <strong id="scoreValue">0 - 0</strong>
+      </article>
+    </section>
+
+    <section class="panel-grid">
+      <article class="panel panel-ask">
+        <header>
+          <h2>Command Console</h2>
+          <p>Ask for a rank using official Go Fish constraints.</p>
+        </header>
+        <div class="ask-controls">
+          <select id="rankSelect" aria-label="Choose rank to request"></select>
+          <button id="askBtn" class="btn btn-accent" type="button">Ask Rank</button>
+        </div>
+        <div id="ruleHint" class="rule-hint">Only ranks in your current hand are valid.</div>
+      </article>
+
+      <article class="panel panel-scoreboard">
+        <header>
+          <h2>Books Captured</h2>
+          <p>Completed rank sets by each participant.</p>
+        </header>
+        <div class="books-wrap">
+          <div>
+            <h3>Player</h3>
+            <ul id="playerBooks" class="chip-list"></ul>
+          </div>
+          <div>
+            <h3>Dealer AI</h3>
+            <ul id="botBooks" class="chip-list"></ul>
+          </div>
+        </div>
+      </article>
+    </section>
+
+    <section class="panel-grid">
+      <article class="panel panel-hand">
+        <header>
+          <h2>Your Hand</h2>
+          <p>Live card view from the game model.</p>
+        </header>
+        <div id="handCards" class="hand-cards"></div>
+      </article>
+
+      <article class="panel panel-events">
+        <header>
+          <h2>Event Stream</h2>
+          <p>Real-time game log from the engine.</p>
+        </header>
+        <ul id="eventFeed" class="event-feed"></ul>
+      </article>
+    </section>
+
+    <section class="panel panel-metrics">
+      <header>
+        <h2>Engine Metrics</h2>
+        <p>Operational visibility for runtime behavior.</p>
+      </header>
+      <div class="metric-grid">
+        <div class="metric-row">
+          <span>Total Requests</span>
+          <strong id="metricRequests">0</strong>
+        </div>
+        <div class="metric-row">
+          <span>Successful Requests</span>
+          <strong id="metricSuccess">0</strong>
+        </div>
+        <div class="metric-row">
+          <span>Go Fish Events</span>
+          <strong id="metricGoFish">0</strong>
+        </div>
+        <div class="metric-row">
+          <span>Turns Processed</span>
+          <strong id="metricTurns">0</strong>
+        </div>
+      </div>
+      <div class="meter-wrap">
+        <span>Success Rate</span>
+        <div class="meter-track">
+          <div id="successMeter" class="meter-fill"></div>
+        </div>
+        <strong id="successRate">0%</strong>
+      </div>
+    </section>
+  </main>
+
+  <script src="/app.js" defer></script>
+</body>
+</html>
