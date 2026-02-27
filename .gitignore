@@ -1,1 +1,50 @@
-.vs/.DS_Store
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build artifacts (dotnet)
+**/bin/
+**/obj/
+out/
+TestResults/
+
+# Logs
+*.log
+logs/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Python / MLOps / Data Engineering
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+mlruns/
+artifacts/
+.dvc/cache/
+
+# Data / notebooks local outputs
+data/raw/
+data/interim/
+data/processed/
+notebooks/.ipynb_checkpoints/
+
+# Node / frontend tooling
+node_modules/
+
+# Docker runtime leftovers
+*.pid
