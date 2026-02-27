@@ -1,0 +1,13 @@
+services:
+  gofish-api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: gofish-api
+    ports:
+      - "8080:8080"
+    environment:
+      ASPNETCORE_ENVIRONMENT: ${ASPNETCORE_ENVIRONMENT:-Production}
+      ASPNETCORE_URLS: ${ASPNETCORE_URLS:-http://0.0.0.0:8080}
+      GOFISH_WEB_ROOT: /app/web
+    restart: unless-stopped

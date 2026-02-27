@@ -1,0 +1,12 @@
+{
+  "engine": {
+    "initialHandSize": 7,
+    "maxEventEntries": 200,
+    "defaultPollIntervalMs": 4000
+  },
+  "ui": {
+    "theme": "control-deck",
+    "showEventStream": true,
+    "showMetrics": true
+  }
+}
