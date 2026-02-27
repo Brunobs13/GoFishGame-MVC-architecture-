@@ -1,53 +1,153 @@
-# Peixinho Decoup
-path to code: Peixinho_demo_v4/PeixinhoDecoup
+# GoFish Control Deck (MVC Architecture)
 
-Peixinho Decoup or GoFish is a card game developed using MonoGame. This project includes game logic, card loading and display, and basic user interaction.
+A production-structured evolution of the original academic Go Fish implementation.
 
-## Overview
+This repository now delivers a clean MVC-oriented backend architecture, REST API, automated tests, CI pipeline, containerization, and an artistic web dashboard for interactive gameplay.
 
-The goal of this project is to create a card game where players can interact with cards in a graphical interface. The game logic is separated from the view to facilitate maintenance and expansion of the code.
+## Project Overview
+GoFish Control Deck is a lightweight game-processing platform that demonstrates how to transform a classroom codebase into a portfolio-ready engineering project. The core game rules are encapsulated in a reusable domain engine, exposed through an HTTP API, and visualized through a responsive web interface.
 
-## Architecture
+## Business Problem
+Academic projects usually fail interview standards because they lack structure, observability, and deployment readiness. This project solves that by showing:
+- Clean architecture separation (Core, Application, API, UI)
+- Reproducible execution and testing
+- Production hygiene (CI, Docker, .gitignore, security practices)
+- Clear technical storytelling for interviews
 
-This project employs the Model-View-Controller (MVC) architecture, inspired by the principles outlined by Krasner and Pope. This design pattern effectively separates concerns within the application, facilitating modular development and maintenance:
+## Architecture Diagram (Text)
+```
+Web Dashboard (HTML/CSS/JS)
+        |
+        v
+ASP.NET Minimal API (GoFish.Api)
+        |
+        v
+Application Controller Service (GoFish.Application)
+        |
+        v
+Game Engine + Domain Rules (GoFish.Core)
+        |
+        v
+In-memory State + Metrics + Event Log
+```
 
-- **Model**: Manages the core game logic and state, encapsulated within the `FishGame` module.
-- **View**: Handles the graphical representation and rendering of the game, defined in the `PeixinhoDecoup` module.
-- **Controller**: Processes user interactions and input, bridging the Model and View components to ensure cohesive operation.
+MVC interpretation in this codebase:
+- Model: `GoFish.Core` domain + engine (`GoFishGameEngine`)
+- Controller: `GoFish.Application` orchestration (`GameControllerService`)
+- View: `web/` dashboard + API JSON responses
+
+## Tech Stack
+- .NET 8
+- ASP.NET Core Minimal API
+- xUnit for tests
+- GitHub Actions for CI
+- Docker + Docker Compose
+- Vanilla HTML/CSS/JavaScript frontend
 
 ## Project Structure
+```
+.
+├── src/
+│   ├── GoFish.Core/            # Domain model + game engine
+│   ├── GoFish.Application/     # Controller/orchestration + DTO contracts
+│   └── GoFish.Api/             # REST API + static web hosting
+├── tests/
+│   └── GoFish.Core.Tests/      # Unit tests for engine behavior
+├── web/                        # Dashboard UI
+├── docs/                       # Audit, technical deep dive, portfolio material
+├── scripts/                    # Setup/run/test helpers
+├── legacy/                     # Original academic implementations
+├── Dockerfile
+├── docker-compose.yml
+├── Makefile
+└── GoFish.sln
+```
 
-- **PeixinhoDecoup**: Contains the main game logic and view implementation.
-- **FishGame**: Contains the game model and logic.
-- **Content**: Contains all the content files including card images, fonts, and other assets.
-
-## Getting Started
-
-### Prerequisites
-
-- MonoGame Framework
-- Visual Studio or any other compatible C# IDE
-
-### Installation
-
+## Setup Instructions
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/peixinho-decoup.git
-   ```
-   
-### Open the project in your IDE.
+```bash
+git clone https://github.com/Brunobs13/GoFishGame-MVC-architecture-.git
+cd GoFishGame-MVC-architecture-
+```
 
-Restore the NuGet packages:
+2. Restore dependencies:
+```bash
+./scripts/setup.sh
+```
 
-Adding Content Files
-Add your content files (e.g., images, audio) to the Content directory.
-Open Content.mgcb in the MGCB Editor.
-Add the new content files using the editor:
-Click the green plus icon to add an existing file.
-Choose whether to copy the file to the project's content directory or add a link to it.
+3. Run the API + dashboard locally:
+```bash
+./scripts/run_api.sh
+```
 
-### Running the Game
+4. Open:
+- API Swagger: `http://localhost:5021/swagger` (port may vary)
+- Dashboard: `http://localhost:5021/`
 
-Build the solution in your IDE.
-Run the project.
+5. Run tests:
+```bash
+./scripts/test.sh
+```
 
+## API Endpoints
+- `GET /health`
+- `GET /api/ranks`
+- `GET /api/game/state`
+- `GET /api/game/metrics`
+- `POST /api/game/reset`
+- `POST /api/game/player/ask`
+
+Example action payload:
+```json
+{
+  "rank": "A"
+}
+```
+
+## CI/CD Overview
+GitHub Actions pipeline (`.github/workflows/ci.yml`) runs on push and PR:
+1. Restore
+2. Build (Release)
+3. Test
+
+This enforces baseline quality gates before merge.
+
+## Data Versioning Strategy
+This project is state-driven and in-memory, so no dataset artifacts are versioned by default. If extended for analytics, recommended strategy:
+- Track datasets with DVC
+- Keep generated artifacts out of Git
+- Store data lineage metadata in `docs/` and pipeline manifests
+
+## Model Tracking Strategy
+No ML model is trained in this project. If a predictive AI dealer is introduced:
+- Track experiments with MLflow
+- Version feature data with DVC
+- Promote model versions via CI gates
+
+## Deployment Strategy
+### Docker
+```bash
+docker compose up --build
+```
+Application is exposed at `http://localhost:8080`.
+
+### Direct Runtime
+Use `dotnet run` through `scripts/run_api.sh`.
+
+## Security Considerations
+- No secrets are hardcoded.
+- Environment configuration uses `.env` conventions (`.env.example` provided).
+- Legacy generated binaries and macOS metadata were removed from version control.
+- `.gitignore` covers common leakage vectors (`.env`, logs, build outputs, MLOps artifacts).
+
+## Lessons Learned
+- Separating domain rules from transport/UI dramatically improves maintainability.
+- Legacy cleanup (tracked binaries, temporary files) is essential for professional perception.
+- Deterministic tests require explicit state injection hooks.
+
+## Future Improvements
+- Persistent game sessions with Redis/PostgreSQL
+- Multi-player rooms via WebSockets
+- OpenTelemetry tracing + Prometheus metrics export
+- AuthN/AuthZ for shared hosted deployment
+- Strategy AI for difficulty levels
