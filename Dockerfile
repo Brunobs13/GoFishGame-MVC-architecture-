@@ -10,6 +10,7 @@ COPY tests/GoFish.Core.Tests/GoFish.Core.Tests.csproj tests/GoFish.Core.Tests/
 RUN dotnet restore GoFish.sln
 
 COPY . .
+RUN dotnet restore src/GoFish.Api/GoFish.Api.csproj
 RUN dotnet publish src/GoFish.Api/GoFish.Api.csproj -c Release -o /app/publish --no-restore
 
 FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS runtime
